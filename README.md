@@ -42,10 +42,6 @@
 - **Functional Testing**: Designing and executing test cases to validate end-to-end application workflows, ensuring all features meet business requirements and deliver expected results.
 - **✅ Database Testing**: Proficient in testing **SQL** database.
 
----
-### 👀 Have A look at My portfolio 🌐 [Priya] for more!
----
-
 ### On going Project 🪏 AI-Agent-Tool - Making QA Processes fast.
 ---
 ### 🛠️ **Tech Stack & Tools**
@@ -67,8 +63,9 @@
 
 ---
 ### 👩🏻‍💻 Some QA & PM Stuff
-* 📄 [QA Process Toolkit](https://github.com/priyadharshini-qa/software-testing)
-* 📄 [QA Reference Guide](https://github.com/priyadharshini-qa/QA-cheatsheet)
+* 📄 [QA Testing artefacts](https://github.com/priyadharshini-qa/Qa-test-artefacts)
+* 📄 [QA Test Management artefacts](https://github.com/priyadharshini-qa/Qa-Test-Management-artefacts)
+* 📄 [QA Reference Guide](https://github.com/priyadharshini-qa/testers-handbook)
   
 ---
 ### 📬 **Let's Connect!**
