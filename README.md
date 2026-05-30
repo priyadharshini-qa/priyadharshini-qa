@@ -76,4 +76,4 @@
 
 <p align="center"> <i> <em> 🧪 Quality first, always! 🧪 </i></em></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyadharshini-qa)
+
