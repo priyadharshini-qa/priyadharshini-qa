@@ -42,7 +42,7 @@
 - **Functional Testing**: Designing and executing test cases to validate end-to-end application workflows, ensuring all features meet business requirements and deliver expected results.
 - **✅ Database Testing**: Proficient in testing **SQL** database.
 
-### On going Project 🪏 AI-Agent-Tool - Making QA Processes fast.
+### On going Project 🪏 Hybrid Selenium Automation Framework.
 ---
 ### 🛠️ **Tech Stack & Tools**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -50,6 +50,7 @@
 ![POM](https://img.shields.io/badge/POM-FF6F00?style=flat)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D300?style=flat&logo=cucumber&logoColor=white)
+![BDD](https://img.shields.io/badge/Cucumber-23D300?style=flat&logo=cucumber&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-004880?style=flat&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
