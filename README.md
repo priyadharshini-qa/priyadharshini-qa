@@ -74,9 +74,7 @@ Building a scalable, maintainable test automation framework using Java, Selenium
 
 ---
 
-### 📊 GitHub Stats
-
-![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyadharshini-qa&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=priyadharshini-qa&theme=default)
 
 ---
 
