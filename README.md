@@ -47,20 +47,22 @@ Building a scalable, maintainable test automation framework using Java, Selenium
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat&logo=testng&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D300?style=flat&logo=cucumber&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-4CAF50?style=flat)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat)
+![BDD](https://img.shields.io/badge/BDD-4CAF50?style=flat&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
 
